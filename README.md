@@ -2,7 +2,7 @@
 
 If you have used these scripts and tools and feel like supporting my work, please send me some funds!
 
-* Bitcoin (BTC):  [1Lei3ikgSrm4JrMYn2Fh3VWhkaBQ4oYM4N][3]
+* Bitcoin (BTC):  1Lei3ikgSrm4JrMYn2Fh3VWhkaBQ4oYM4N
 * Monero  (XMR):  499QFXhZWBfXAuqqPJUY7ihWDWxzSDTTf7MnVQwYd6xZcSzbTFQY7B4i7zB5mTmXnQfdf6RsDmjdZJNBF6oeeW8xBz7sWa5
 
 All modules are written in tcl for the [eggdrop][1] IRC chat bot.
@@ -28,4 +28,3 @@ All modules are written in tcl for the [eggdrop][1] IRC chat bot.
 
 [1]: https://github.com/eggheads/eggdrop
 [2]: https://github.com/Tech-Noid-Systems/Eggdrop_Scripts
-[3]: bitcoin:1Lei3ikgSrm4JrMYn2Fh3VWhkaBQ4oYM4N?amount=0.01&label=TechNoidSystems
